@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Shooting Star — Bedrock Prototype RP",
+    "description": "Icons and resource definitions for the unofficial Bedrock prototype.",
+    "uuid": "f05349c9-3c3b-41bb-9b32-46f29e44e0f4",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a7c48ad9-4d9f-4434-8f13-01842a0b7c1a",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}
