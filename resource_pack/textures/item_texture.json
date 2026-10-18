@@ -1,0 +1,18 @@
+{
+  "resource_pack_name": "Shooting Star Bedrock Prototype",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "stellar_remote": {
+      "textures": "textures/items/ender_eye"
+    },
+    "railgun_core": {
+      "textures": "textures/items/prismarine_crystals"
+    },
+    "gungnir_spear": {
+      "textures": "textures/items/trident"
+    },
+    "seven_stars": {
+      "textures": "textures/items/nether_star"
+    }
+  }
+}
