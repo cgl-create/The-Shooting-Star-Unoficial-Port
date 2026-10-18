@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Shooting Star — Bedrock Prototype BP",
+    "description": "Unofficial touch-friendly ability prototype for Bedrock Edition.",
+    "uuid": "ab36b902-6a70-4d4e-b81a-6cbb3bb0a211",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "d92b2d34-4a45-44c2-baf8-112a76b8a512",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "54c1bb87-1a53-4c63-a3a4-2a7b31e9d730",
+      "version": [
+        0,
+        1,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    }
+  ]
+}
