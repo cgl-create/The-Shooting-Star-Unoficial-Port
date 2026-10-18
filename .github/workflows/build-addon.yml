@@ -3,6 +3,8 @@ name: Build Bedrock Add-on
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
     tags:
       - 'v*'
 
